@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Craft in Time</string>
+    <string name="title_activity_main">Craft in Time</string>
+    <string name="package_name">com.jentap.app</string>
+    <string name="custom_url_scheme">com.jentap.app</string>
+</resources>
